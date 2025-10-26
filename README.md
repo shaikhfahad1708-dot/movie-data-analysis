@@ -44,3 +44,5 @@ This project explores the IMDb dataset (1000 movies) to understand patterns in *
 1. Clone the repo:
    ```bash
    git clone https://github.com/shaikhfahad1708-dot/movie-data-analysis.git
+## 📓 View the Full Notebook
+👉 [Open the Analysis on NBViewer](https://nbviewer.org/github/shaikhfahad1708-dot/movie-data-analysis/blob/main/IMDb_Movie_Analysis.ipynb.ipynb)
